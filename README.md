@@ -18,11 +18,11 @@ The implementation is adapted from advanced fake news detection workflows (origi
 - `explanation.md` – Phase 2 brief implementation summary  
 - `report.tex` – Phase 3 final LaTeX report
 
-  Instructions
+ Instructions
 
 1.	Clone the Repository:
-2.	git clone https://github.com/Sompa-Bhui/Fake_News_Detection--GenAI_Project-22BSA10143.git
-3.  cd Fake_News_Detection--GenAI_Project-22BSA10143
+2.	git clone https://github.com/push2250/GENai_Project_22BSA10202.git
+3.  cd GENai_Project_22BSA10202
 4.	Set Up Environment:
 o	Ensure Python 3.8+ is installed.
 o	Install required libraries:
@@ -30,13 +30,12 @@ pip install pandas nltk scikit-learn numpy seaborn matplotlib
 5.	Download the Dataset:
 o	The Kaggle Fake and Real News Dataset (Fake.csv, True.csv) is not included due to file size limits. Download it from Kaggle.
 o	Place the files in a data/ subfolder:
-o	Fake_News_Detection--GenAI_Project-22BSA10143.csv
-Fake_News_Detection--GenAI_Project-22BSA10143.csv
+o	GENai_Project_22BSA10202/data/Fake.csv
+GENai_Project_22BSA10202/data/True.csv
 6.	Run the Notebook:
 o	Open my_fake_news_detection.ipynb in Jupyter Notebook:
 jupyter notebook my_fake_news_detection.ipynb
 o	Execute all cells (Cell > Run All) to preprocess the data, train the model, and generate results.
-
 
 Output
 •	Accuracy: 92%
