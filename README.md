@@ -46,6 +46,14 @@ o	True: Precision: 0.93, Recall: 0.91, F1-score: 0.92
 •	Visualization: Confusion matrix saved as confusion_matrix.png.
 •	Sample Prediction: "Government claims new policy boosts economy, lacks evidence." → Fake
 
+
+Notes
+• This implementation is a simplified and accessible version designed specifically for educational use in the GEN AI course.
+
+• It uses Logistic Regression instead of more complex models like BERT or LSTM, ensuring compatibility with standard systems and easier interpretability.
+
+• All results were obtained by running the notebook on a standard laptop, highlighting its practicality and efficiency for coursework and learning.
+
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the Repository
