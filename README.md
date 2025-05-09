@@ -1,4 +1,4 @@
-# 📰 Fake News Detector — GEN AI Project  
+# 📰 Fake News Detection — GEN AI Project  
 
 Fake News Detection
 
