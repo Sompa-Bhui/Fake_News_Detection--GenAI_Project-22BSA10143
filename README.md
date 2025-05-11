@@ -24,5 +24,6 @@ In the latter case, it is similar to sensational online "clickbait" headlines an
 ###  Clone the Repository
 ```bash
 git clone https://github.com/Sompa-Bhui/Fake_News_Detection--GenAI_Project-22BSA10143.git
+
 cd Fake_News_Detection--GenAI_Project-22BSA10143
 
